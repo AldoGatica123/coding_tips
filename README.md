@@ -5,7 +5,7 @@ Summary containing notes on different languages and technologies.
 1. [Development Resources](#development-resources)
 2. [Python](./Python/README.md)
 3. [Java](./Java/README.md)
-4. [Design Patterns](./Python/README.md)
+4. [Design Patterns](./Design%20Patterns/README.md)
 5. [Go](./Go/README.md)
 
 ## Development Resources
